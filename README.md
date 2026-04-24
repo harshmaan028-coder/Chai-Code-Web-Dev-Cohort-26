@@ -23,7 +23,7 @@ This is a single-page resume website built using pure HTML.
 
 ## Live Demo
 
-[GitHub Pages Link Here]
+https://harshmaan028-coder.github.io/Resume-Website/
 
 ## Screenshots
 
